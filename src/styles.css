@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  background-color: cadetblue;
+  padding: 2rem;
+  margin: auto;
+}
+
+input {
+  width: 50%;
+  height: 30px;
+  margin-top: 4rem;
+  border-radius: 0.4rem;
+}
+
+.output-div {
+  width: 60%;
+  height: 50px;
+  margin: auto;
+  margin-top: 3rem;
+  font-size: medium;
+  color: cadetblue;
+}
+
+.emojilist {
+  padding: 5px;
+  font-size: xx-large;
+  margin: 0.5rem;
+  cursor: pointer;
+}
+
+.clickh2 {
+  margin: 3rem;
+}
